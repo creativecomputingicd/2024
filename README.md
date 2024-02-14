@@ -1,1 +1,1 @@
-This is the basic Vite Three JS app template you can reuse for your submissions.
+The source code for Creative Computing Course WS 2023/24's landing page by ICD/CA.
